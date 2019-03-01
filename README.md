@@ -30,7 +30,7 @@ db servers
 
     - db1.example.com
       172.16.1.203
-      OS:
+      OS: Ubuntu 16.04
 
     - db2.example.com
       172.16.1.204
