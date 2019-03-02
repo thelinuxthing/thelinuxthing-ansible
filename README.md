@@ -1,3 +1,4 @@
+[![Build Status](http://build.thelinuxthing.com/buildStatus/icon?job=thelinuxthing-ansible&build=1)](https://build.thelinuxthing.com/job/thelinuxthing-ansible/1/)
 This vagrant file deploys 5 machines
 -
   - 3 CentOS-7 machines
